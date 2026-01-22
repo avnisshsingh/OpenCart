@@ -1,0 +1,27 @@
+# Created at 2026-01-22T17:59:12.511
+Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "takesScreenshot" is null
+
+# Created at 2026-01-22T17:59:12.705
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2026-01-22 17:59:12) [WARN ] [ShareMenu] menu init.'.
+
+# Created at 2026-01-22T17:59:12.708
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2026-01-22 17:59:12) [ERROR] [ShareMenu] phone not connect.'.
+
+# Created at 2026-01-22T17:59:12.710
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2026-01-22 17:59:12) [ERROR] [ShareMenu] can not show menu.'.
+
+# Created at 2026-01-22T17:59:12.731
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2026-01-22 17:59:12) [WARN ] [HonorFileShareMenu] menu init.'.
+
+# Created at 2026-01-22T17:59:12.733
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2026-01-22 17:59:12) [WARN ] displayFlag = 1'.
+
+# Created at 2026-01-22T17:59:12.734
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2026-01-22 17:59:12) [WARN ] [HonorFileShareMenu] get menu text'.
+
+# Created at 2026-01-22T17:59:12.736
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2026-01-22 17:59:12) [WARN ] [ShareMenu] invoke command.'.
+
+# Created at 2026-01-22T17:59:12.737
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2026-01-22 17:59:12) [WARN ] [HonorFileShareMenu] invoke command.'.
+

@@ -1,0 +1,1 @@
+This file is created from GITHUB to test the GIT commands.

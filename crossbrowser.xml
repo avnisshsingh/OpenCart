@@ -18,11 +18,11 @@
 			<class name="testCases.TC001_AccountRegistrationTest" />
 		</classes>
 	</test> <!-- Test -->
-	<test name="Test FireFox">
+<!-- 	<test name="Test FireFox">
 		<parameter name="os" value="windows" />
 		<parameter name="browser" value="firefox" />
 		<classes>
 			<class name="testCases.TC001_AccountRegistrationTest" />
 		</classes>
-	</test> <!-- Test -->
+	</test> Test -->
 </suite> <!-- Suite -->
